@@ -41,5 +41,27 @@
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
+  },
+  "description": "<a href=\"https://niyaj-kumanali.github.io/Password_Generator_ReactJS/\">Click here<a/>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niyaj-Kumanali/Password_Generator_ReactJS.git"
+  },
+  "keywords": [
+    "secure",
+    "website",
+    "password",
+    "protect",
+    "online",
+    "account",
+    "security",
+    "code",
+    "authentication"
+  ],
+  "author": "Niyaj Kumanali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niyaj-Kumanali/Password_Generator_ReactJS/issues"
   }
 }
