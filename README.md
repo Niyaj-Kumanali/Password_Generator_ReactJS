@@ -1,5 +1,4 @@
-﻿```markdown
-# [React Password Generator](https://niyaj-kumanali.github.io/Password_Generator_ReactJS/)
+﻿# [React Password Generator](https://niyaj-kumanali.github.io/Password_Generator_ReactJS/)
 
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/Niyaj-Kumanali/Password_Generator_ReactJS.svg)](https://github.com/Niyaj-Kumanali/Password_Generator_ReactJS/issues)
@@ -85,5 +84,4 @@ This project is licensed under the [ISC License](LICENSE).
 
 If you encounter any issues with the application, please report them on the [GitHub Issues](https://github.com/Niyaj-Kumanali/Password_Generator_ReactJS/issues) page.
 
-```
 
